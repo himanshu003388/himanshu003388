@@ -51,8 +51,28 @@
 
 ###
 
-<br clear="both">
+name: Generate Snake
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/himanshu003388/himanshu003388/snake-output/snake.svg" alt="Snake animation" />
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: himanshu003388
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ###
