@@ -54,10 +54,6 @@
 ![](https://streak-stats.demolab.com/?user=himanshu003388&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu003388&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-# 🐍 Contribution Snake:
-<br clear="both">
-<img src="https://raw.githubusercontent.com/himanshu003388/himanshu003388/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://komarev.com/ghpvc/?username=himanshu003388&color=blueviolet)](https://visitcount.itsvg.in)
