@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Himanshu
 # 💫 About Me:
-🔭 I'm currently working on MERN Stack projects.<br>🌱 I'm currently learning MERN Stack Development, Computer Vision & Python AI
+🌱 I'm currently learning MERN Full Stack Development, Computer Vision & Python AI
 
 
 <h2 data-importer="text" align="left"></h2>
