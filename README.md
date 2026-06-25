@@ -50,7 +50,6 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=himanshu003388&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu003388&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=himanshu003388&theme=dark&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu003388&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
